@@ -1,0 +1,6 @@
+first = int(input("Write first any number, please "))
+second = int(input("Write second any number, please "))
+third = int(input("Write third any number, please "))
+fourth = int(input("Write fourth any number, please "))
+result = (first+second)/(third+fourth)
+print("Result is %.2f" % (result))
